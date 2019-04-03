@@ -1,1 +1,3 @@
 data/*
+*.csv
+X-Y_Net_test/*
