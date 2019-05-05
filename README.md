@@ -20,7 +20,7 @@ We use the following libraries and systems:
 * Python 3
 * Tensorflow
 * Jupyter
-* CUDA
+* CUDA v9
 * OpenCV 3
 
 ## Authors
